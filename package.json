@@ -1,0 +1,12 @@
+{
+  "name": "rodris-olamundo",
+  "version": "1.0.0",
+  "description": "Uma API simples que responde com 'Olá Mundo'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
